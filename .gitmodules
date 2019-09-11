@@ -1,0 +1,9 @@
+[submodule "shoppingcart-server"]
+	path = shoppingcart-server
+	url = https://github.com/tjper/shoppingcart-server
+[submodule "server"]
+	path = server
+	url = https://github.com/tjper/shoppingcart-server
+[submodule "web"]
+	path = web
+	url = https://github.com/tjper/shoppingcart-web
