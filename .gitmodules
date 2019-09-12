@@ -7,3 +7,6 @@
 [submodule "web"]
 	path = web
 	url = https://github.com/tjper/shoppingcart-web
+[submodule "db"]
+	path = db
+	url = https://github.com/tjper/shoppingcart-db
