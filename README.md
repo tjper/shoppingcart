@@ -9,7 +9,7 @@ run all the services.
 
 Follow these steps to being running the application:
 1. clone this repo via the code snippet below
-> git clone --recurse-submodules https://github.com,/tjper/shoppingcart
+> git clone --recurse-submodules https://github.com/tjper/shoppingcart
 
 2. navigate to this repos base directory
 3. run snippet below in your terminal
