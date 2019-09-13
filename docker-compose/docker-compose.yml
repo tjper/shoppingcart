@@ -20,5 +20,10 @@ services:
         aliases:
          - database
 
+  web:
+    image: tjperr/shoppingcart-web:latest
+    ports:
+      - "3000:80"
+
 networks:
   shoppingcart:
